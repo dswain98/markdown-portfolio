@@ -1,3 +1,1 @@
-- player
-- artist
-- entertainer
+- player - entertainer - artist - gambler
