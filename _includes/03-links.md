@@ -1,1 +1,1 @@
-investokc.com
+https://investokc.com/
