@@ -1,3 +1,3 @@
-* player
-* artist
-* entertainer
+- player
+- artist
+- entertainer
