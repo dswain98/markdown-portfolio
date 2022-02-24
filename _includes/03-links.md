@@ -1,1 +1,1 @@
-text https://investokc.com/
+[investokc](https://investokc.com/)
